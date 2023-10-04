@@ -1,0 +1,7 @@
+
+
+Fazer uma requisição na API RestCountries e retornar no console um array de objetos com todos os países listados na api (aproximadamente 250)
+
+https://restcountries.com/
+
+Renderizar e formatar o retorno da função conforme exemplo
